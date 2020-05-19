@@ -9,5 +9,5 @@ Let t1 print message “ping — >” and t2 print message “,—-pong”.
 
 Take as command line arguments, the following inputs to the program: Sleep Interval for thread t1 Sleep Interval for thread t2 Message per cycle No of cycles
 
-3.write a c programme to check whether two strings are anagrame or not
+3.write a c programme to check whether two strings are anagram or not
 
